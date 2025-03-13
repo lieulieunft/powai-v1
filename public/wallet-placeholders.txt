@@ -1,0 +1,12 @@
+Wallet Icon Placeholders
+
+For a production environment, please replace these with proper icons:
+
+1. metamask.png - MetaMask wallet icon
+2. coinbase.png - Coinbase Wallet icon
+3. okx.png - OKX Wallet icon
+4. rabby.png - Rabby Wallet icon
+5. backpack.png - Backpack Wallet icon
+6. walletconnect.png - WalletConnect icon
+
+These icons should be placed in the public directory. 
